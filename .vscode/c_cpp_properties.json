@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/karasu/GitHub/doorbell/doorbell/include",
-                "/Users/karasu/GitHub/doorbell/doorbell/src",
-                "/Users/karasu/GitHub/doorbell/doorbell/.pio/libdeps/nodemcuv2/ArduinoJson/src",
-                "/Users/karasu/GitHub/doorbell/doorbell/.pio/libdeps/nodemcuv2/PubSubClient/src",
+                "/Users/karasu/GitHub/doorbell/include",
+                "/Users/karasu/GitHub/doorbell/src",
+                "/Users/karasu/GitHub/doorbell/.pio/libdeps/nodemcuv2/ArduinoJson/src",
+                "/Users/karasu/GitHub/doorbell/.pio/libdeps/nodemcuv2/PubSubClient/src",
                 "/Users/karasu/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
                 "/Users/karasu/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
                 "/Users/karasu/.platformio/packages/toolchain-xtensa/include",
@@ -57,10 +57,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/karasu/GitHub/doorbell/doorbell/include",
-                    "/Users/karasu/GitHub/doorbell/doorbell/src",
-                    "/Users/karasu/GitHub/doorbell/doorbell/.pio/libdeps/nodemcuv2/ArduinoJson/src",
-                    "/Users/karasu/GitHub/doorbell/doorbell/.pio/libdeps/nodemcuv2/PubSubClient/src",
+                    "/Users/karasu/GitHub/doorbell/include",
+                    "/Users/karasu/GitHub/doorbell/src",
+                    "/Users/karasu/GitHub/doorbell/.pio/libdeps/nodemcuv2/ArduinoJson/src",
+                    "/Users/karasu/GitHub/doorbell/.pio/libdeps/nodemcuv2/PubSubClient/src",
                     "/Users/karasu/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
                     "/Users/karasu/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
                     "/Users/karasu/.platformio/packages/toolchain-xtensa/include",
